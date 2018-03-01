@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Page de test</title>
   </head>
   <body>
-  $END$
+  <p>Ceci est un body</p>
   </body>
 </html>
